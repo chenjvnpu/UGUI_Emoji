@@ -8,6 +8,6 @@ github资源：https://github.com/lahmmiley/EmojiText
 
 感谢大大提供的EmojiText开源代码，我才能在此基础上进行一些相关UI的拓展
 
-###分支 origin/emoji_normal_UI
+## 分支 origin/emoji_normal_UI
 简单实现聊天的表情输入和显示功能
 可以输入动态表情和静态表情
